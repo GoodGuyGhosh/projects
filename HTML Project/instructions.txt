@@ -1,0 +1,14 @@
+This file only contains the HTML5/CSS content. The PHP files will be uploaded separetly and they will need to be run using apache server.
+
+Instructions.
+1. Start with index page.
+2. Traverse through all pages.
+3. Once you click on sign-up button on top right of index page, you'll be redirected to the registration page. 
+4. Click on sign-up (details need not be entered as these are purely html pages and not php).
+5. You'll be redirected to sign-in page. Click on sign-in (details need not be entered as these are purely html pages and not php).
+6. Choose a team to continue.
+7. Choose the fixture as needed.
+8. Choose seat type and number of seats.
+9. Payment page is the last page (details need not be entered as these are purely html pages and not php).
+
+Thank you.
