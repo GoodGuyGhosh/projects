@@ -1,0 +1,122 @@
+body{
+    font-family: 'Lato', sans-serif;
+	position: relative;
+	background: #3DA6D4;
+	margin: 0px;
+}
+
+header{
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../neufcwall.png);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+}
+
+ul{
+	float: right;
+	list-style-type: none;
+	margin-top: 25px;
+	
+}
+
+ul li{
+	display: inline-block;
+}
+
+ul li a{
+	text-decoration: none;
+	color: #fff;	
+	padding: 5px 20px;
+	border: 1px solid transparent;
+	transition: 0.6s ease;
+}
+ul li a:hover{
+	background-color: #fff;
+	color: #000;
+}
+
+.title{
+	
+}
+
+.title h1{
+	position: absolute;
+	top: 5%;
+	left: 12%;
+	color: #fff;
+	font-size: 25px;
+	font-family: calibri;
+}
+.title h3{
+	position: absolute;
+	top: 10%;
+	left: 12%;
+	color: #fff;
+	font-size: 15px;
+	font-family: calibri;
+}
+.title h4{
+	position: absolute;
+	top: 20%;
+	left: 12%;
+	color: #fff;
+	font-size: 15px;
+	font-family: calibri;
+}
+.title h5{
+	position: absolute;
+	top: 25%;
+	left: 12%;
+	color: #fff;
+	font-size: 15px;
+	font-family: calibri;
+}
+.social{
+	font-family: calibri;
+	position:absolute;
+	top:14%;
+	left: 9%;
+	float:left;
+	list-style-type:none;
+}
+.social:hover{
+	opacity:0.7;
+}
+.img{
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform: translate(-50%,-50%);
+}
+
+.radio{
+	position: absolute;
+	font-size: 20px;
+	font-family: calibri;
+	color: #fff;
+	margin-right: 1400px;
+	margin-left: 50px;
+	margin-top: 50px;
+}
+.radio:hover{
+	opacity:0.7;
+	}
+.next{
+	position: absolute;
+	top: 82%;
+	left: 44%;
+	color: #fff;
+	font-size: 20px;
+	font-family: calibri;
+}
+.btn{
+	border: 1px solid #fff;
+	padding: 10px 30px;
+	color: #fff;
+	text-decoration: none;
+	transition: 0.6s ease;
+}
+.btn:hover{
+	background-color: #fff;
+	color: #000;
+}
